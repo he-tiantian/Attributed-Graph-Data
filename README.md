@@ -5,10 +5,12 @@ Here is the detail information on the these datasets:
 1. Twitter:
 The raw twitter dataset can be downloaded from http://snap.stanford.edu/data/. The version in this repository is processed by Tiantian He. The dataset contains 2511 vertices, 37154 edges, and 9073 node attributes representing twitter users, friendship between these users, and user profile and words in tweets, respectively.
 
-2. Facebook
+2. Facebook:
+
 The raw Facebook dataset can be downloaded from http://snap.stanford.edu/data/. The version in this repository is processed by Tiantian He. The dataset contains 4039 vertices, 88234 edges, and 1283 node attributes representing facebook users, friendship between these users, and user profiles of these users, respectively.
 
-3. Googleplus
+3. Googleplus:
+
 The raw Facebook dataset can be downloaded from http://snap.stanford.edu/data/. The version in this repository is processed by Tiantian He. The dataset contains 7856 vertices, 321268 edges, and 2024 node attributes representing googleplus users, friendship between these users, and user profiles of these users, respectively.
 
 
