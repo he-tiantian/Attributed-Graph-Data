@@ -3,6 +3,7 @@ This repository contains several sets of attributed graph data.
 Here is the detail information on the these datasets:
 
 1. Twitter:
+
 The raw twitter dataset can be downloaded from http://snap.stanford.edu/data/. The version in this repository is processed by Tiantian He. The dataset contains 2511 vertices, 37154 edges, and 9073 node attributes representing twitter users, friendship between these users, and user profile and words in tweets, respectively.
 
 2. Facebook:
