@@ -1,5 +1,5 @@
 # Datasets
-This repository contains several sets of attributed graph data.
+This repository contains several sets of attributed graph data with ground truth classes.
 Here is the detail information on the these datasets:
 
 1. Twitter:
