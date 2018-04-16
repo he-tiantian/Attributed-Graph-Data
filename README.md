@@ -1,5 +1,5 @@
 # Datasets
-This repository contains several sets of attributed graph data with ground truth classes.
+This repository contains several sets of attributed graph data with ground truth classes (The information on the ground truth clusters is contained in the file "Class_info").
 Here is the detail information on the these datasets:
 
 1. Twitter:
