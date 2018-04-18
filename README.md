@@ -17,6 +17,6 @@ The raw Facebook dataset can be downloaded from http://snap.stanford.edu/data/. 
 
 You are welcome to cite either one of the following papers and mention the url via which the raw data can be downloaded, when you use the above datasets in your research works.
 
-1.  T. He, and K. C.C. Chan, "Discovering Fuzzy Structural Patterns for Graph Analytics," IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2018.2791951, 2018.
+1.  T. He, and K.C.C. Chan, "Discovering Fuzzy Structural Patterns for Graph Analytics," IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2018.2791951, 2018.
 
-2.  T. He, and K. C.C. Chan, "MISAGA: An Algorithm for Mining Interesting Subgraphs in Attributed Graphs," IEEE Transactions on Cybernetics, doi:10.1109/TCYB.2017.2693558, 2017.
+2.  T. He, and K.C.C. Chan, "MISAGA: An Algorithm for Mining Interesting Subgraphs in Attributed Graphs," IEEE Transactions on Cybernetics, vol. 48, no. 5, pp. 1369-1382, 2018.
