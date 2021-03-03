@@ -5,6 +5,10 @@ This repository contains several sets of attributed graph data with ground truth
 
 2.  T. He, and K.C.C. Chan, "MISAGA: An Algorithm for Mining Interesting Subgraphs in Attributed Graphs," IEEE Transactions on Cybernetics, vol. 48, no. 5, pp. 1369-1382, 2018.
 
+3.  T. He, Y. Liu, T.H. Ko, K.C.C. Chan, and Y.S. Ong, "Contextual Correlation Preserving Multiview Featured Graph Clustering," IEEE Transactions on Cybernetics, vol. 50, no. 10, pp. 4318 - 4331, 2020.
+
+4.  T. He, L. Bai and Y.S. Ong, "Vicinal Vertex Allocation for Matrix Factorization in Networks," IEEE Transactions on Cybernetics, 2021.
+
 
 Here is the detail information on the these datasets:
 
